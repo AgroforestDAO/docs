@@ -17,13 +17,13 @@ atskotzen
 https://github.com/AgroforestDAO/web3-dapp-saf-design
 
 ## Total Team Size
-4
+2
 
 ## List the Github Handles and Wallet Addresses of Each Team Member (e.g. owocki - 0x123, kbw - 0x456):
 AtsKotzen - 0xA9645f4CF0aD4d218595C9E5182aD273df2375DF, diogojorg3 - diogoj.eth
 
 ## Social profiles (Twitter, Farcaster, Lens, etc.) of other main team members publicly associated with the project (N/A for solo founders):
-https://twitter.com/Atskotzen
+https://twitter.com/Atskotzen, https://twitter.com/Diogojorg3
 
 ## Link to your Public Group Chat (e.g. Discord or Telegram)
 https://t.me/+TNwrhRCyCxQ4Zjcx
@@ -48,11 +48,14 @@ please get in touch and let's talk about it.
 We already started to create [Hypercerts](https://hypercerts.org/app/view#claimId=0x822f17a9a5eecfd66dbaff7946a8071c265d1d07-18637945800993641520815953998252808477868032) to future impact measures.
 
 ## Total Prior Funding Amounts, Sources, and Dates for the project in USD
+**Grants:** We already received aprox. a total of 4k USD in the previous GG Rounds
+
 
 ## Which of the following funding sources do you have? Check all that apply
 [x] Grants
 
 ## How old (in Months) is the project?
+38
 
 ## Location/Region where the project is based
 [Central and South America]
@@ -82,8 +85,6 @@ Decentralized Data Management with Blockchain Integration: Integrating with bloc
 
 ## Gamified Engagement and NFT Integration: Incorporating gamification elements and NFTs to represent ownership or contributions to specific agroforestry plots engages a broader audience, encouraging investment in and support for sustainable agricultural projects.
 
-## Conclusion
-Our application isn't just a tool; it's a movement towards a more sustainable, equitable, and resilient agricultural system. By leveraging cutting-edge technology, we're breaking down barriers, fostering global collaboration, and paving the way for a future where agriculture works in harmony with nature. This not only addresses the immediate needs of agroforesters but also contributes to broader environmental and social objectives, aligning with global sustainability goals.
 
 ## Describe how your application improves user experience in the Web3 space. Include any specific design choices or features that enhance accessibility and practical utility.
 Our application innovatively harnesses the capabilities of Web3 to enhance the user experience for agroforesters and sustainability enthusiasts. By prioritizing decentralization, transparency, and community engagement, we've crafted an ecosystem that not only empowers users but also simplifies the complexities often associated with Web3 technologies.
@@ -140,7 +141,6 @@ of a nest by uploading geolocated pictures to IPFS and to our Charmverse workspa
 
 
 ## How would funding from this round support your project's development and goals? Outline specific areas where the funds would be allocated (e.g., development, user research, community building).
-## Agroforestry Toolkit Dapp Roadmap
 
 The grants we receive in this round will be dedicated to supporting the ongoing development of the tools that make up the Agroforestry Toolkit, as well as their integration with the "Common Pool of Shareable Resources" (conceptualized by [ReRe Regenerative Resources](https://github.com/ReRe-Recursos-Regenerativos)), blockchain, Hypercerts, and EAS.
 
