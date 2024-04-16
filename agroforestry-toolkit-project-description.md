@@ -1,5 +1,6 @@
 # AgroforestDAO 🌿💡 
 
+
 AgroforestDAO is a **revolutionary initiative** at the forefront of merging **blockchain technology** with **agroecology**, setting a new standard for **sustainability and innovation** in the agricultural sector. At the heart of our mission is the desire to transform perennial production areas into hybrid models of governance and production that transcend local and global boundaries through the use of gamified engagement models in education, governance, reputation building, and financial sustainability.
 
 Originating from the visionary perspective of Diogo Jorge, a renowned permaculturist and agroforester, AgroforestDAO is not just a community but a rooted global tribe, committed to optimizing socio-environmental regeneration processes through innovative Web3 technology. Our unique proposition—a forestry adaptation of the CSA model (Community Supported Agriculture)—promotes intergenerational production, backed by a truly global community.
