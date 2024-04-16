@@ -141,7 +141,7 @@ of a nest by uploading geolocated pictures to IPFS and to our Charmverse workspa
 ## How would funding from this round support your project's development and goals? Outline specific areas where the funds would be allocated (e.g., development, user research, community building).
 ## Agroforestry Toolkit Dapp Roadmap
 
-The grants we receive in this round will be dedicated to supporting the ongoing development of the tools that make up the Agroforestry Toolkit, as well as their integration with blockchain, Hypercerts, and EAS.
+The grants we receive in this round will be dedicated to supporting the ongoing development of the tools that make up the Agroforestry Toolkit, as well as their integration with the "Common Pool of Shareable Resources" (conceptualized by [ReRe Regenerative Resources](https://github.com/ReRe-Recursos-Regenerativos)), blockchain, Hypercerts, and EAS.
 
 Below are more detailed information about our roadmap.
 
