@@ -14,6 +14,6 @@ As one of the most innovative proposals in the regenerative Web3 space, Agrofore
 ### 👩‍💻 Useful resources
 - [Miro Board](https://miro.com/app/board/uXjVN8WhMsw=/?share_link_id=557936539315)
 - [Demo App](https://app-agroforestdao.web.app/)
-- [Website](https://app-agroforestdao.web.app/)
+- [Website](https://agroforestdao.web.app/)
 - [Telegram](https://t.me/+TNwrhRCyCxQ4Zjcx)
 - [Twitter](https://twitter.com/agroforestDAO)
