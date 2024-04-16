@@ -1,4 +1,4 @@
-# AgroforestDAO 🌿💡
+# AgroforestDAO 🌿💡 
 
 AgroforestDAO is a **revolutionary initiative** at the forefront of merging **blockchain technology** with **agroecology**, setting a new standard for **sustainability and innovation** in the agricultural sector. At the heart of our mission is the desire to transform perennial production areas into hybrid models of governance and production that transcend local and global boundaries through the use of gamified engagement models in education, governance, reputation building, and financial sustainability.
 
