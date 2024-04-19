@@ -1,5 +1,7 @@
 ## Hypercert AgroforestDAO | Celo ReFi
 
+[![Hypercert-Celo.png](https://i.postimg.cc/y82Hj1Kw/Hypercert-Celo.png)](https://postimg.cc/dhRptKLB)
+
 **Hypercert Name**
 
 AgroforestDAO | Celo ReFi
